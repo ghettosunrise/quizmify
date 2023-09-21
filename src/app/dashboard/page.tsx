@@ -9,7 +9,7 @@ import RecentActivities from './RecentActivities';
 export interface DashboardProps {}
 
 export const metadata = {
-  title: 'Dashboard | Quizmify',
+  title: 'Dashboard | Quiz-mi-fy',
 };
 
 export default async function Dashboard(props: DashboardProps) {

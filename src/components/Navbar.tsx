@@ -15,7 +15,7 @@ async function Navbar(props: NavbarProps) {
         {/* Logo */}
         <Link className='flex items-center gap-2' href='/'>
           <p className='rounded-lg border-2 border-b-4 border-r-4 border-black px-2 py-1 text-xl font-bold transition-all hover:-translate-y-[2px] md:block dark:border-white'>
-            Quizmify
+            Quiz-mi-fy
           </p>
         </Link>
 
