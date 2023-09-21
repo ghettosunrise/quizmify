@@ -10,7 +10,7 @@ export interface IQuizPageProps {
 }
 
 export const metadata = {
-  title: 'Quiz | Quiz-mi-fy',
+  title: 'Quiz | Quizmify',
 };
 
 export default async function QuizPage({ searchParams }: IQuizPageProps) {

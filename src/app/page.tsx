@@ -20,10 +20,10 @@ export default async function Home() {
     <div className='absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2'>
       <Card className='w-[300px]'>
         <CardHeader>
-          <CardTitle>Welcome to Quiz-mi-fy</CardTitle>
+          <CardTitle>Welcome to Quizmify</CardTitle>
           <CardDescription>
-            Quiz-mi-fy is an app that allows you to create and share quizzez
-            with your friends
+            Quizmify is an app that allows you to create and share quizzez with
+            your friends
           </CardDescription>
           <SignInButton text='Sign In with Google' />
         </CardHeader>
